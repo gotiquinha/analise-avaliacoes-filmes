@@ -20,7 +20,7 @@ Estamos trabalhando com dois conjuntos de dados:
 **Exploração Inicial:** Examino as primeiras linhas dos DataFrames, verifico os tipos de dados e obtenho informações básicas.  
 **Manipulação de Colunas:** Redefino os nomes das colunas para facilitar a referência durante a análise.  
 **Análise Descritiva:** Obtenho medidas estatísticas básicas, como média, mediana, valores únicos e contagem de valores.  
-**Visualização com Pandas:** Uso a funcionalidade .plot() do pandas para gerar um histograma das avaliações.  
+**Visualização com Pandas:** Uso a funcionalidade `.plot()` do pandas para gerar um histograma das avaliações.  
 **Visualização com Seaborn:** Uso o `sns.boxplot()` para visualizar a distribuição das avaliações. O gráfico mostra que metade das notas está entre 3 e 4, enquanto a outra metade está entre 3 e 2.  
 **Consulta e Agrupamento:** Realizo consultas específicas para obter informações sobre avaliações de filmes específicos e agrupo os dados por filme para obter a média das avaliações.
  
