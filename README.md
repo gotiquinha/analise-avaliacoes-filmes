@@ -12,7 +12,7 @@ Neste repositório, realizo uma análise exploratória de um conjunto de dados c
 ### Conjunto de Dados:
 Estamos trabalhando com dois conjuntos de dados:
 
-**Avaliações de Filmes:** Cada linha representa uma avaliação dada por um usuário a um filme em particular e inclui informações como o ID do usuário, o ID do filme, a nota dada e o momento da avaliação.
+**Avaliações de Filmes:** Cada linha representa uma avaliação dada por um usuário a um filme em particular e inclui informações como o ID do usuário, o ID do filme, a nota dada e o momento da avaliação.  
 **Informações de Filmes:** Cada linha representa um filme e inclui detalhes como o ID do filme, o título e o gênero.
 
 ### Etapas da Análise:
